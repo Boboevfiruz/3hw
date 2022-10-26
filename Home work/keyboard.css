@@ -1,0 +1,15 @@
+table, th,td{
+    border: 1px solid white;
+    width: 400px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 5px;
+
+}
+th,td:hover{
+    color: white;
+    background-color: black;
+}th:active,td:active{
+    background-color: red;
+   font-size: 25px;
+}
